@@ -47,26 +47,6 @@
         "addressables",
         "puzzle-games"
       ]
-    },
-    {
-      "name": "desktop",
-      "source": "./plugins/desktop",
-      "description": "Skills and agents for C#/Avalonia desktop utility development.",
-      "version": "1.6.0",
-      "author": {
-        "name": "Tuyen",
-        "url": "https://github.com/tuyenwork"
-      },
-      "tags": [
-        "csharp",
-        "dotnet",
-        "avalonia",
-        "desktop",
-        "windows",
-        "macos",
-        "file-utility",
-        "mvvm"
-      ]
     }
   ]
 }
